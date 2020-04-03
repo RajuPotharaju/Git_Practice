@@ -1,6 +1,2 @@
-/usr/lib/xorg/Xorg.wrap: Only console users are allowed to run the X server
-
-
-
 First Commit to Master
 first ccommit to branch1
